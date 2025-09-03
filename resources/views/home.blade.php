@@ -20,10 +20,10 @@
 
      <h3>Manfaat Framework Web</h3>
      <ul>
-        <li><b>Mempercepat pengembangan --</b> sudah ada fitur dasar seperti routing, autentikasi, dan koneksi database</li>
-        <li><b>Kode lebih terstruktur --</b> mudah dibaca, dipahami, dan dipeligara</li>
-        <li><b>Keamanan lebih baik --</b> banyak framework melindungi dari SQL injection, XSS, CSRF, dll</li>
-        <li><b>Mendukung kerja tim --</b> standar penulisan kode jelas sehingga memudahkan kolaborasi</li>
+        <li><b>Mempercepat pengembangan --</b> sudah ada fitur dasar seperti routing, autentikasi, dan koneksi database.</li>
+        <li><b>Kode lebih terstruktur --</b> mudah dibaca, dipahami, dan dipeligara.</li>
+        <li><b>Keamanan lebih baik --</b> banyak framework melindungi dari SQL injection, XSS, CSRF, dll.</li>
+        <li><b>Mendukung kerja tim --</b> standar penulisan kode jelas sehingga memudahkan kolaborasi.</li>
      </ul>
 
     <h3>Contoh Framework Web Populer</h3>
